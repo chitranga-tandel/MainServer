@@ -1,0 +1,75 @@
+[
+  {
+  "id":1,
+  "cryptoName": "BTC",
+  "cryptoCode": "BitCoin000878i9o",
+  "buyPrice": 4324.75,
+  "sellPrice": 4668.93,
+  "currentVal": 2280.66,
+  "currentRate": 5.19,
+  "iconText":"bi-currency-bitcoin",
+   "iconColor":"#ffc107",
+   "iconBackGroundcolor":"#ffc1076b"
+},
+{
+  "id":2,
+  "cryptoName": "ETH",
+  "cryptoCode": "Ethereum",
+  "buyPrice": 312.2938,
+  "sellPrice": 312.3928,
+  "currentVal": 194.234,
+  "currentRate": 6.19,
+  "iconText":"bi-ethernet",
+  "iconColor":"#0d6efd",
+  "iconBackGroundcolor":"#0d6efd5e"
+},
+{
+  "id":3,
+  "cryptoName": "AAPL",
+  "cryptoCode": "Apple",
+  "buyPrice": 4324.75,
+  "sellPrice": 4668.93,
+  "currentVal": -8.14,
+  "currentRate": -0.49,
+  "iconText":"bi-apple",
+  "iconColor":"#000000",
+  "iconBackGroundcolor":"#00000038"
+},
+
+{
+  "id":4,
+  "cryptoName": "Alphabet",
+  "cryptoCode": "GOOG",
+ "buyPrice": 4324.75,
+  "sellPrice": 4668.93,
+  "currentVal": 5480.66,
+  "currentRate": 5.19,
+  "iconText":" bi-google",
+  "iconColor":"#0d6efd",
+  "iconBackGroundcolor":"#0d6efd5e"
+},
+{
+  "id":5,
+  "cryptoName": "Amazon",
+  "cryptoCode": "AMZN",
+   "buyPrice": 312.2938,
+  "sellPrice": 312.3928,
+  "currentVal": 124.234,
+  "currentRate": 6.19,
+  "iconText":"bi-bag-heart",
+  "iconColor":"#000000",
+  "iconBackGroundcolor":"#00000038"
+},
+{
+  "id":6,
+  "cryptoName": "Commerzb",
+  "cryptoCode": "CBK.DE",
+  "buyPrice": 4324.75,
+  "sellPrice": 4668.93,
+  "currentVal": -8.14,
+  "currentRate": -0.49,
+  "iconText":"bi-recycle",
+  "iconColor":"#ffc107",
+  "iconBackGroundcolor":"#ffc1076b"
+}
+]
